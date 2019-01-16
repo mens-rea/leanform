@@ -1,0 +1,35 @@
+html,body{
+	margin: 0px;
+	font-family: 'Helvetica';
+	background-color: pink;
+}
+
+.bottom{
+	background-color: pink;
+	border: 30px;
+	margin: 0px;
+	padding-top:150px;
+}
+.header{
+	background-color: gray;
+	padding: 20px;
+	margin: 0px;
+	color: pink;
+	font-size: 20px;
+}
+
+.title li{
+    float: left;
+    padding: 0px;
+    position: relative;
+    font-weight: 800;
+}
+.Text{
+	text-align: center;
+	margin: 5px;
+	font-size: 10px;
+	color: gray;
+	padding: 0px;
+}
+
+
