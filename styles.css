@@ -1,0 +1,35 @@
+form{
+	border:30px solid #00B28D;
+	margin: 10px;
+	
+}
+body{
+	background-color: #9CFFE6;
+}
+
+h1{
+	margin-left: 30px;
+	font-size: 20px;
+	font-family: "helvetica";
+}
+h2{
+	margin-left: 73px;
+	font-size: 20px;
+	font-family: "helvetica";
+
+}
+h3{
+	margin-left: 31px;
+	font-size: 20px;
+	font-family: "helvetica";
+}
+
+h4{
+
+}
+
+h5{
+	font-size: 100px;
+	font-weight: 100;
+	font-family: "Courier New";
+}
